@@ -1,0 +1,5 @@
+/subtitle
+/subtitle.exe
+
+/docs/*
+!/docs/*.md
