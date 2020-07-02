@@ -26,7 +26,7 @@ var sharedFlags = map[string]cli.Flag{
 	"memprof": &cli.StringFlag{
 		Name:    "memprof",
 		Aliases: []string{"M"},
-		Usage:   "save mempry profile to `FILE`",
+		Usage:   "save memory profile to `FILE`",
 	},
 	"config": &cli.StringFlag{
 		Name:    "config",
